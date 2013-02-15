@@ -1,0 +1,11 @@
+{
+  "name": "jsFiddle Web",
+  "description": "Load jsFiddle on the Web",
+  "launch_path": "/",
+  "icons": {
+    "32":  "/icons/jsfiddle32.png",
+    "64":  "/icons/jsfiddle64.png",
+    "128": "/icons/jsfiddle128.png",
+    "256": "/icons/jsfiddle256.png"
+  }
+}
